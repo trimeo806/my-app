@@ -1,0 +1,19 @@
+{
+  "todos": [
+    {
+      "text": "lau nha",
+      "completed": true,
+      "id": 1
+    },
+    {
+      "text": "rua chen",
+      "completed": true,
+      "id": 2
+    },
+    {
+      "text": "uong nuoc",
+      "completed": false,
+      "id": 3
+    }
+  ]
+}
